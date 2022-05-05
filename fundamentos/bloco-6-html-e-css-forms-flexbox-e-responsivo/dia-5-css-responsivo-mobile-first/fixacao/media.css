@@ -1,0 +1,31 @@
+@media screen and ( min-width : 500px ) {
+
+  .card:nth-of-type( 1 ) {
+    display: block;
+  }
+
+}
+
+@media screen and ( min-width : 600px ) and ( max-width : 1000px  ) {
+
+  .card:nth-of-type( 2 ) {
+    display: block;
+  }
+
+}
+
+@media not all and (  min-width : 650px ) and ( max-width : 950px ) {
+
+  .card:nth-of-type( 3 ) {
+    display: block;
+  }
+
+}
+
+@media screen and ( max-width : 500px  ) {
+
+  body > p {
+    background-color: black;
+  }
+
+}
