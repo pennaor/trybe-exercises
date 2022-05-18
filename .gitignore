@@ -21,9 +21,6 @@
 .ionide
 # i
 *.code-workspace
-node_modules
-*.json
-*.yml
 .editorconfig
 .eslintignore
 
