@@ -23,6 +23,7 @@
 *.code-workspace
 .editorconfig
 .eslintignore
+node_modules
 
 # Support for Project snippet scope
 
