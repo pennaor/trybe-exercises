@@ -1,0 +1,26 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+#pokedex {
+  width: 55%;
+  height: 100vh;
+  margin: 30px auto;
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+  text-align: center;
+}
+
+.pokemon-card {
+  width: 210px;
+  padding: 10px;
+  margin: 1px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
